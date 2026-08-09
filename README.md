@@ -18,6 +18,7 @@ A dark VS Code color theme inspired by the Indian national flag (Tiranga):
 3. Open the Command Palette (`Ctrl/Cmd+Shift+P`) → **Preferences: Color Theme** → select **Tiranga**.
 
 **Option B — download it from vscode extensions marketplace.
+https://marketplace.visualstudio.com/items?itemName=dotnetabhishekai.tiranga-theme-2026
 
 ## Customize
 
