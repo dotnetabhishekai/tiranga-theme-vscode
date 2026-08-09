@@ -4,6 +4,7 @@
   "description": "A VS Code color theme inspired by the Indian national flag (Tiranga) — saffron, white, green, with navy blue Ashoka Chakra accents.",
   "version": "1.0.0",
   "publisher": "dotnetabhishekai",
+  "repository":"https://github.com/dotnetabhishekai/tiranga-theme-vscode",
   "engines": {
     "vscode": "^1.60.0"
   },
