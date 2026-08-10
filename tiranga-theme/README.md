@@ -21,4 +21,6 @@ A dark VS Code color theme inspired by the Indian national flag (Tiranga):
 
 ## Customize
 
-All colors live in `themes/tiranga-color-theme.json`. Tweak the hex values under `"colors"` (UI) or `"tokenColors"` (syntax highlighting) to taste.
+A few things on the roadmap if there's interest:
+- A light variant: same palette, inverted for daytime coding.
+- Bracket pair colorization tuned to the tricolor palette.
